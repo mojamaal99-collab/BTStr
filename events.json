@@ -3,7 +3,7 @@
   "events": [
     {
       "title": "Fight Night: Main Event",
-      "date": "2026-10-26T20:00:00Z",
+      "date": "2026-10-31T20:00:00Z",
       "status": "live",
       "streams": [
         { "label": "Main", "url": "http://stream.mcquack.net/130/index.m3u8", "icon": "play" },
