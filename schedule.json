@@ -1,0 +1,19 @@
+{
+  "lastUpdated": "2026-10-25T18:00:00Z",
+  "title": "Fight Schedule",
+  "note": "All times in your local timezone",
+  "fights": [
+    {
+      "event": "Fight Night: Main Event",
+      "date": "2026-10-26T20:00:00Z",
+      "venue": "Madison Square Garden",
+      "card": "Main Card"
+    },
+    {
+      "event": "Undercard Bout A",
+      "date": "2026-10-26T18:00:00Z",
+      "venue": "Madison Square Garden",
+      "card": "Prelims"
+    }
+  ]
+}
