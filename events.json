@@ -6,7 +6,7 @@
       "date": "2026-10-26T20:00:00Z",
       "status": "live",
       "streams": [
-        { "label": "Main",   "url": "https://example.com/stream1", "icon": "play" },
+        { "label": "Main",   "url": "http://stream.mcquack.net/130/index.m3u8", "icon": "play" },
         { "label": "Backup", "url": "https://example.com/stream2", "icon": "backup" },
         { "label": "Stream3", "url": "https://example.com/stream3", "icon": "mobile" },
         { "label": "test", "url": "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8", "icon": "mobile" }
