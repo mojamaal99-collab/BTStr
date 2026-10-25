@@ -1,0 +1,31 @@
+{
+  "lastUpdated": "2026-10-25T18:00:00Z",
+  "events": [
+    {
+      "title": "Fight Night: Main Event",
+      "date": "2026-10-26T20:00:00Z",
+      "status": "live",
+      "streams": [
+        { "label": "Main",   "url": "https://example.com/stream1", "icon": "play" },
+        { "label": "Backup", "url": "https://example.com/stream2", "icon": "backup" },
+        { "label": "Mobile", "url": "https://example.com/stream3", "icon": "mobile" }
+      ]
+    },
+    {
+      "title": "Title Fight",
+      "date": "2026-11-02T21:00:00Z",
+      "status": "upcoming",
+      "streams": [
+        { "label": "Main", "url": "https://example.com/stream4", "icon": "play" }
+      ]
+    },
+    {
+      "title": "Classic Match Replay",
+      "date": "2026-10-20T00:00:00Z",
+      "status": "vod",
+      "streams": [
+        { "label": "Replay", "url": "https://example.com/replay", "icon": "tv" }
+      ]
+    }
+  ]
+}
