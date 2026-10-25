@@ -10,7 +10,7 @@
         { "label": "S1", "url": "https://example.com/stream2", "icon": "backup" },
         { "label": "S2", "url": "https://example.com/stream3", "icon": "mobile" },
         { "label": "S3", "url": "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8", "icon": "mobile" },
-        { "label": "S4", "url": "https://example.com/stream3", "icon": "mobile" },
+        { "label": "S4", "url": "https://example.com/stream3", "icon": "mobile" }
       ]
     },
     {
