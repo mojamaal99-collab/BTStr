@@ -7,7 +7,7 @@
       "status": "live",
       "streams": [
         { "label": "Main", "url": "http://stream.mcquack.net/130/index.m3u8", "icon": "play" },
-        { "label": "S1", "url": "https://example.com/stream2", "icon": "backup" },
+        { "label": "S1", "url": "https://media-sport.hopto.org:10443/port81/DAZN_2_Germany_DE_12ea5.org.m3u8", "icon": "backup" },
         { "label": "S2", "url": "https://example.com/stream3", "icon": "mobile" },
         { "label": "S3", "url": "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8", "icon": "mobile" },
         { "label": "S4", "url": "https://example.com/stream3", "icon": "mobile" }
