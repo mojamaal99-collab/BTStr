@@ -3,13 +3,13 @@
   "events": [
     {
       "title": "Fight Night: Main Event",
-      "date": "2026-10-31T20:00:00Z",
+      "date": "2026-10-31T22:00:00Z",
       "status": "live",
       "streams": [
-        { "label": "Main", "url": "http://stream.mcquack.net/130/index.m3u8", "icon": "play" },
-        { "label": "S1", "url": "https://media-sport.hopto.org:10443/port81/DAZN_2_Germany_DE_12ea5.org.m3u8", "icon": "backup" },
-        { "label": "S2", "url": "https://example.com/stream3", "icon": "mobile" },
-        { "label": "S3", "url": "https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8", "icon": "mobile" },
+        { "label": "Main", "url": "https://1114697320.rsc.cdn77.org/92328/tracks-v1a1/mono.ts.m3u8", "icon": "play" },
+        { "label": "S1", "url": "https://1114697320.rsc.cdn77.org/92330/tracks-v1a1/mono.ts.m3u8", "icon": "backup" },
+        { "label": "S2", "url": "https://1073082845.rsc.cdn77.org/92331/tracks-v1a1/mono.m3u8", "icon": "mobile" },
+        { "label": "S3", "url": "https://tedesco.formaturamaxi.com.br/ppv.m3u8", "icon": "mobile" },
         { "label": "S4", "url": "https://example.com/stream3", "icon": "mobile" }
       ]
     },
